@@ -1,6 +1,6 @@
 
 - 👋 Oi, eu sou Wallase Alan
-- Flutter Mobile Developer, Full stack developer
+- Flutter Mobile Developer, Full-stack developer
 
 <!---
 radmilags/radmilags is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
